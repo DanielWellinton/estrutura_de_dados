@@ -1,0 +1,29 @@
+C:/Users/446984/Desktop/pasta 2025/Arrays/bin/Debug/net9.0/Arrays.exe
+C:/Users/446984/Desktop/pasta 2025/Arrays/bin/Debug/net9.0/Arrays.deps.json
+C:/Users/446984/Desktop/pasta 2025/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+C:/Users/446984/Desktop/pasta 2025/Arrays/bin/Debug/net9.0/Arrays.dll
+C:/Users/446984/Desktop/pasta 2025/Arrays/bin/Debug/net9.0/Arrays.pdb
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.dll
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.pdb
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+C:/Users/446984/Desktop/pasta 2025/Arrays/obj/Debug/net9.0/ref/Arrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/bin/Debug/net9.0/Arrays
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/bin/Debug/net9.0/Arrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/bin/Debug/net9.0/Arrays.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/Arrays/obj/Debug/net9.0/ref/Arrays.dll
