@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/bin/Debug/net9.0/JaggedArrays
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/bin/Debug/net9.0/JaggedArrays.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/bin/Debug/net9.0/JaggedArrays.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/bin/Debug/net9.0/JaggedArrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/bin/Debug/net9.0/JaggedArrays.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/refint/JaggedArrays.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/JaggedArrays.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/Estrutura de Dados/Atividade_01/JaggedArrays/obj/Debug/net9.0/ref/JaggedArrays.dll
