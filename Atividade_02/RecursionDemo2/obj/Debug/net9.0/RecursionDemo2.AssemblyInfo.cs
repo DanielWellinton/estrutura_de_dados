@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Recursividade")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RecursionDemo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a791f474aa4c48ddad32a10d0864c6bf4afd1c33")]
-[assembly: System.Reflection.AssemblyProductAttribute("Recursividade")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Recursividade")]
+[assembly: System.Reflection.AssemblyProductAttribute("RecursionDemo2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RecursionDemo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,0 +1,15 @@
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\bin\Debug\net9.0\RecursionDemo2.exe
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\bin\Debug\net9.0\RecursionDemo2.deps.json
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\bin\Debug\net9.0\RecursionDemo2.runtimeconfig.json
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\bin\Debug\net9.0\RecursionDemo2.dll
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\bin\Debug\net9.0\RecursionDemo2.pdb
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.AssemblyInfoInputs.cache
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.AssemblyInfo.cs
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.csproj.CoreCompileInputs.cache
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.sourcelink.json
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.dll
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\refint\RecursionDemo2.dll
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.pdb
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\RecursionDemo2.genruntimeconfig.cache
+C:\Users\403180\Desktop\Estrutura de Dados\estrutura_de_dados\Atividade_02\RecursionDemo2\obj\Debug\net9.0\ref\RecursionDemo2.dll
