@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/bin/Debug/net9.0/Pilhas
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/bin/Debug/net9.0/Pilhas.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/bin/Debug/net9.0/Pilhas.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/bin/Debug/net9.0/Pilhas.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/bin/Debug/net9.0/Pilhas.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/refint/Pilhas.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/Pilhas.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_04/Pilhas/obj/Debug/net9.0/ref/Pilhas.dll
