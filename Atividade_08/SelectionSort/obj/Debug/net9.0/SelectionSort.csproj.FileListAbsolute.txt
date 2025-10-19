@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/bin/Debug/net9.0/SelectionSort
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/bin/Debug/net9.0/SelectionSort.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/bin/Debug/net9.0/SelectionSort.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/bin/Debug/net9.0/SelectionSort.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/bin/Debug/net9.0/SelectionSort.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/refint/SelectionSort.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/SelectionSort.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_08/SelectionSort/obj/Debug/net9.0/ref/SelectionSort.dll
