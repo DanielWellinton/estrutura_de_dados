@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/bin/Debug/net9.0/BubbleSort
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/bin/Debug/net9.0/BubbleSort.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/bin/Debug/net9.0/BubbleSort.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/bin/Debug/net9.0/BubbleSort.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/bin/Debug/net9.0/BubbleSort.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/refint/BubbleSort.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/BubbleSort.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_07/BubbleSort/obj/Debug/net9.0/ref/BubbleSort.dll

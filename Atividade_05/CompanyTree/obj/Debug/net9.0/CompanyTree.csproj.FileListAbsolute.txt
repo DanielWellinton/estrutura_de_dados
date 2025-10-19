@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/bin/Debug/net9.0/CompanyTree
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/bin/Debug/net9.0/CompanyTree.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/bin/Debug/net9.0/CompanyTree.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/bin/Debug/net9.0/CompanyTree.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/bin/Debug/net9.0/CompanyTree.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/refint/CompanyTree.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/CompanyTree.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/CompanyTree/obj/Debug/net9.0/ref/CompanyTree.dll

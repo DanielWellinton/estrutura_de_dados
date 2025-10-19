@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/bin/Debug/net9.0/arvore_binaria
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/bin/Debug/net9.0/arvore_binaria.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/bin/Debug/net9.0/arvore_binaria.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/bin/Debug/net9.0/arvore_binaria.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/bin/Debug/net9.0/arvore_binaria.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/refint/arvore_binaria.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/arvore_binaria.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_06/arvore_binaria/obj/Debug/net9.0/ref/arvore_binaria.dll

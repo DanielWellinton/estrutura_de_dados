@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/bin/Debug/net9.0/Arvores
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/bin/Debug/net9.0/Arvores.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/bin/Debug/net9.0/Arvores.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/bin/Debug/net9.0/Arvores.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/bin/Debug/net9.0/Arvores.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/refint/Arvores.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/Arvores.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_05/Arvores/obj/Debug/net9.0/ref/Arvores.dll
