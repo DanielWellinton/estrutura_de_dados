@@ -1,0 +1,15 @@
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/bin/Debug/net9.0/DesafioAlgoritmo
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/bin/Debug/net9.0/DesafioAlgoritmo.deps.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/bin/Debug/net9.0/DesafioAlgoritmo.runtimeconfig.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/bin/Debug/net9.0/DesafioAlgoritmo.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/bin/Debug/net9.0/DesafioAlgoritmo.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.AssemblyInfoInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.AssemblyInfo.cs
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.csproj.CoreCompileInputs.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.sourcelink.json
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/refint/DesafioAlgoritmo.dll
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.pdb
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/DesafioAlgoritmo.genruntimeconfig.cache
+/home/daniel/Área de trabalho/Ciencia da Computacao/estrutura_de_dados/Atividade_10/DesafioAlgoritmo/obj/Debug/net9.0/ref/DesafioAlgoritmo.dll
